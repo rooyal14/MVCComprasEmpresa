@@ -8,7 +8,7 @@ using PersistenceProject;
 
 namespace ControllerProject
 {
-    public class FornecedorCotroller
+    public class FornecedorController
     {
         private Repository repository = new Repository();
 
